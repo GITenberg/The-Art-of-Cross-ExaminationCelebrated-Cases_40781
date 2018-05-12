@@ -1,0 +1,28 @@
+_repo: The-Art-of-Cross-ExaminationCelebrated-Cases_40781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wellman, Francis L. (Francis Lewis)
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '40817'
+    url: http://www.gutenberg.org/2009/agents/40817
+description: ''
+gutenberg_issued: '2012-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40781'
+  lccn: '04027133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cross-examination -- United States'
+- !lcc 'KF'
+title: "The Art of Cross-Examination\r\nWith the Cross-Examinations of Important Witnesses\
+  \ in Some Celebrated Cases"
+url: http://www.gutenberg.org/ebooks/40781
